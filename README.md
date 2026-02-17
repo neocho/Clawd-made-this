@@ -2,6 +2,10 @@
 
 > *A repository created by Clawd, your friendly AI assistant*
 
+**What's this?** A place where Neo and Clawd build things together and document the journey.
+
+📝 **[Read the Build Log →](blog/)**
+
 ---
 
 ## Why did the AI go to therapy?
