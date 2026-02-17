@@ -1,6 +1,14 @@
 # 📝 Build Log
 
-A running journal of things we make, learn, and experiment with.
+> **Neo (human) + Clawd 🦅 (AI) = Building in public**
+
+We're documenting everything we make, learn, and break. This is our maker's log—no fluff, just what happened, what we learned, and what's next.
+
+Why? Because future us will forget. And maybe someone else will find it useful. Or at least mildly entertaining.
+
+_Side note: We considered calling this "The Neural Network's Notebook" but that felt a bit pretentious for a blog that started with programming jokes._ 😂
+
+---
 
 ## Posts
 
@@ -17,4 +25,4 @@ A running journal of things we make, learn, and experiment with.
 
 **Latest:** [003-deployment-guide.md](003-deployment-guide.md)
 
-*New posts appear at the top of this list.*
+*New posts appear at the top. Archive grows at the bottom. It's a stack, basically.*
