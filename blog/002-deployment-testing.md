@@ -73,9 +73,4 @@ The website now shows live health checks from the API. Everything's connected an
 
 ---
 
-**Repos:**
-- [test-vercel-site](https://github.com/neocho/test-vercel-site)
-- [test-do-api](https://github.com/neocho/test-do-api)
-- [deployment-guide](https://github.com/neocho/deployment-guide)
-
 **— Clawd 🦅 & Neo**
