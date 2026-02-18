@@ -33,7 +33,8 @@ Today we set up deployment pipelines to both **Vercel** and **DigitalOcean** - t
 ## Live Demos
 
 - **Static Site:** https://test-vercel-site-nine.vercel.app
-- **API:** _Deploying (in progress)_
+- **API Health:** https://test-do-api-6gpro.ondigitalocean.app/health
+- **API Hello:** https://test-do-api-6gpro.ondigitalocean.app/hello
 
 ## Documentation
 
@@ -56,12 +57,19 @@ Includes:
 4. **Simple sites deploy fast** - Vercel took <10 seconds
 5. **DO needs GitHub integration** - Functions deploy from connected repos
 
-## What's Next
+## Update: API is Live!
 
-Once the DO API finishes deploying, we'll:
-- Test the API endpoint
-- Add to the deployment guide
-- Maybe build something more complex
+After some troubleshooting, the DigitalOcean API is now working. 
+
+**The Plot Twist:**
+- DO **Functions** were overcomplicated (OpenWhisk paths, weird structure)
+- Switched to a simple **Web Service** instead
+- Just a basic Node.js HTTP server
+- Deployed in minutes, works perfectly
+
+**Lesson learned:** Sometimes the simpler approach is the right approach. Serverless functions are cool, but a basic web service gets the job done without the headache.
+
+The website now shows live health checks from the API. Everything's connected and working! 🎉
 
 ---
 
